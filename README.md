@@ -1,5 +1,6 @@
 <div align="center">
-<img src="./rbfi_logo.png" width="140" alt="RBFI Logo"
+<img src="./IMG_20261122_092022_441.jpg" width="140""
+
 
 # RBFI org
 ### Raw Boot Firmware Interface — Open-Source Bare-Metal Firmware
