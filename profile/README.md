@@ -24,7 +24,7 @@
 
 ## Repositories & Ecosystem
 
-* **[RBFI](https://github.com)** — Core x86_64 bare-metal firmware source (`RBFI_x86.nas`), ACPI 2.0+ builder, and Boot ABI specification.
+* **[RBFI](https://github.com/RBFI-org/RBFI)** — Core x86_64 bare-metal firmware source (`RBFI_x86.nas`), ACPI 2.0+ builder, and Boot ABI specification.
 
 ---
 
