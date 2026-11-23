@@ -1,6 +1,6 @@
 <div align="center">
   <kbd>
-    <img src="./IMG_20261122_092022_441.jpg" width="100" alt="RBFI" />
+    <img src="./rbfi_logo.png" width="100" alt="RBFI" />
   </kbd>
 </div>
 
